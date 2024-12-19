@@ -1,5 +1,5 @@
 # SeleniumProject
-Проект для сбора данных о ближайших выставках жемчужины города Петербурга - Эрмитажа со страницы [Выставки и события Эрмитажа]([https://lotr.fandom.com/ru/wiki/Властелин_Колец](https://www.hermitagemuseum.org/wps/portal/hermitage/what-s-on/?lng=ru)).
+Проект для сбора данных о ближайших выставках жемчужины города Петербурга - Эрмитажа со страницы [Выставки и события Эрмитажа](https://www.hermitagemuseum.org/wps/portal/hermitage/what-s-on/?lng=ru)).
 
 ## Требования
 - Python 3.7+
